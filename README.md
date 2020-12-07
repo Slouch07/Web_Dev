@@ -1,3 +1,3 @@
 # Web Development
 
-This repo will contain web development projects that I have built on my own and as part of online courses.
+This repo be home to my web development projects as I follow along with the Web Development Bootcamp course taught by Dr. Angela Yu.
