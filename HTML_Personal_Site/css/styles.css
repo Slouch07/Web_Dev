@@ -1,9 +1,18 @@
 body {
-  background-color: #eaf6f6;
+  background-color: #fcf8ec;
 }
 hr {
   border-style: dotted hidden hidden hidden;
   border-width: 5px;
   width: 4%;
-  border-color: grey;
+  border-color: #456268;
+}
+img {
+  border-radius: 45%;
+}
+h1{
+  color: #79a3b1;
+}
+h3{
+  color: #79a3b1;
 }

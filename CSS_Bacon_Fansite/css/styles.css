@@ -1,0 +1,38 @@
+/*******************************TAG SELECTORS********************************/
+/* These will be overriddan by any class or id selectors. */
+h1 {
+  color: red;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 70px;
+  text-decoration: underline;
+}
+/* :hover is a pseudo-class */
+img:hover {
+  background-color: gold;
+}
+
+p {
+  color: blue;
+  font-family: "Courier New", Courier, monospace;
+  font-style: italic;
+}
+
+/*******************************CLASS SELECTORS******************************/
+/* The selectors should be used to style groups of related items. */
+/* Elements can have more than one class. */
+.bacon {
+  background-color: red;
+}
+.circular {
+  border-radius: 100%;
+}
+.sushi{
+  background-color: green;
+  border-radius: 25%;
+}
+
+/*******************************ID SELECTORS*********************************/
+/* These selectors should only be used to style a specific element on the page and has to be unique. */
+#heading {
+  color: blue;
+}
