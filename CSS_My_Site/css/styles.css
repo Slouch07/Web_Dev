@@ -9,14 +9,14 @@ body {
 }
 
 h1 {
-  color: #66BFBF;
+  color: #a5ecd7;
   font-family: 'Satisfy', cursive;
   font-size: 5rem;
   
 }
 
 h2 {
-  color: #66BFBF;
+  color: #a5ecd7;
   font-family: 'Roboto', sans-serif;
   font-size: 2.5rem;
   font-weight: normal;
@@ -26,11 +26,11 @@ h2 {
 
 h3 {
   font-family: 'Roboto', sans-serif;
-  color: #11999E;
+  color: #51adcf;
 }
 
 a {
-  color: #11999E;
+  color: #0278ae;
   font-weight: normal;
   text-decoration: none;
 }
@@ -57,7 +57,7 @@ p {
 } 
 
 .top-container {
-  background-color: #effffb;
+  background-color: #0278ae;
   position: relative;
   padding-top: 100px;
 }
@@ -68,7 +68,7 @@ p {
 }
 
 .bottom-container {
-  background-color: #66BFBF;
+  background-color: #51adcf;
   padding-top: 50px;
 }
 
@@ -92,7 +92,7 @@ p {
 
 .skill-row {
   width: 35%;
-  margin: 100px auto;
+  margin: 100px auto 150px;
   text-align: left;
 }
 
@@ -114,12 +114,12 @@ p {
 }
 
 .btn {
-  background: #11CDD4;
-  background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
-  background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
-  background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
-  background-image: -o-linear-gradient(top, #11CDD4, #11999E);
-  background-image: -webkit-gradient(to bottom, #11CDD4, #11999E);
+  background: #51ADCF;
+  background-image: -webkit-linear-gradient(top, #51ADCF, #0278AE);
+  background-image: -moz-linear-gradient(top, #51ADCF, #0278AE);
+  background-image: -ms-linear-gradient(top, #51ADCF, #0278AE);
+  background-image: -o-linear-gradient(top, #51ADCF, #0278AE);
+  background-image: -webkit-gradient(to bottom, #51ADCF, #0278AE);
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
   border-radius: 8px;
@@ -135,13 +135,8 @@ p {
 }
 
 .btn:hover {
-  border: solid #11CDD4 0;
-  background: #30E3CB;
-  background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
-  background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
-  background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
-  background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
-  background-image: -webkit-gradient(to bottom, #30E3CB, #2BC4AD);
+  background: #51adcf;
+  border: solid #0278AE 0;
   -webkit-border-radius: 8px;
   -moz-border-radius: 8px;
   border-radius: 8px;
